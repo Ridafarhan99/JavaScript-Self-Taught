@@ -24,3 +24,20 @@ To use variables in JavaScript, we first need to create it i.e. declare a variab
 <br>
 **const:** This keyword is used to declare variable locally. If you use this keyword to declare a variable then the variable will only be accessible within that block similar to the variable defined by using let and difference between let and const is that the variables declared using const values can’t be reassigned. So we should assign the value while declaring the variable.  
 
+<br>
+
+## JavaScript Hoisting
+JavaScript Hoisting refers to the process whereby the interpreter appears to move the declaration of functions, variables(var) or classes to the top of their scope, prior to execution of the code.
+
+<br>
+
+## Naming Rules
+A variable name should accurately identify your variable. When you create good variable names, your JavaScript code becomes easier to understand and easier to work with. Properly naming variables is really important. JavaScript also has some rules when it comes to naming variables;  
+
+* Variable names cannot contain spaces.
+
+* Variable names must begin with a letter, an underscore (_) or a dollar sign ($).
+
+* Variable names can only contain letters, numbers, underscores, or dollar signs.
+
+* Variable names are case-sensitive.
